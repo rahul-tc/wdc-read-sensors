@@ -168,3 +168,4 @@ def read_arduino_data(port=None, duration=100, photo_threshold=100, sound_thresh
 if __name__ == "__main__":
     # Read data with delta thresholds for increases
     read_arduino_data(photo_threshold=15, sound_threshold=2)
+
