@@ -1,4 +1,4 @@
-#!/usr/bin/env python3
+#!/usr/bin/env python3 
 """
 Simple Arduino Sensor Reader with Delta Threshold Triggers
 Basic script to quickly read and display Arduino sensor data
